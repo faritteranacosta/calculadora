@@ -58,7 +58,7 @@ function App() {
             default: return
           }
           
-          if(result === 10) {setOutput("Te amo")}
+          if(result === 10) {setOutput("Te amo🤍")}
           else{setOutput(String(result))}
           setPreviousValue(null)
           setOperation(null)
